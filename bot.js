@@ -51,5 +51,5 @@ memberss.forEach(function(memberz, index)
 }
 })
 
-client.login("TOKEN");
+client.login("ODU0MTE0MjUwMjA5MjMwODQ4.YMfN4Q.3tZtn2gmmrNZxzXqEQn61z1bp6c");
 
